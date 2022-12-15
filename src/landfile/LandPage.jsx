@@ -6,7 +6,7 @@ export default function LandPage() {
   return (
     <div className='router-main-div'>
             <div className='first-div'>
-                <img className='router-img' src="./assetss/landImg.png" alt="img" />
+                <img className='router-img' src="./assetss/landImg2.png" alt="img" />
             </div>
             <div className='second-div'>
                 <h1>10x Team 04</h1>

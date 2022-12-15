@@ -17,6 +17,7 @@ export default function ViewImg() {
             .catch((err) => console.log(err))
     }, [])
   return (
+    
     <div className='main-container'>
             <div className="hearder">
                 <img className="logo" src="./assetss/cloneImg.png" /><img className='instaclone-img' src=" https://www.instaclone.app/img/instaclone-logo-dark.png"  />
