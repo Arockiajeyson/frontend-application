@@ -28,7 +28,7 @@ export default function ViewImg() {
                         <div key={index} className="inner-div">
                             <section className="name-tag">{e.name}</section>
                             <section className="location-tag"><ImLocation2/> {e.location}</section>
-                            <img className='dot_icon' src='./assets/dot_icon.png'></img>
+                            <img className='dot_icon' src='./assetss/dotsImg.png'></img>
                             <img className="main-img" src={e.PostImage}></img>
                             <aside className="aside-class">
                                 <span className="like-img"><FiHeart/></span>
